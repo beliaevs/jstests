@@ -1,0 +1,9 @@
+{
+    "name": "sasha",
+    "scores": {
+        "name": "math",
+        "marks": [3,2,5,3],
+        "active": true
+        },
+    "school": "Shuvalov"
+}
